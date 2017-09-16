@@ -6,8 +6,9 @@ def rename_files():
 	os.chdir(r"/media/ahmad/C2169F8B169F7EDB/Courses/laracast")
 
 	for file_name in file_list:
-		print("Old name is " + file_name)
-		print("New name is " + file_name.translate(None, "0123456789"))
+		# print("Old name is " + file_name)
+		# print("New name is " + file_name.translate(None, "0123456789"))
+		os.rename(file_name, file_name.replace('Laracasts - ', ''))
 		
 	os.chdir(original_path)
 

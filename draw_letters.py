@@ -4,7 +4,7 @@ def draw_a():
 	window = turtle.Screen()
 	window.bgcolor("blue")
 
-	letter = turtle.Turtle()
+ 	letter = turtle.Turtle()
 	letter.speed(2)
 
 	# letter A
