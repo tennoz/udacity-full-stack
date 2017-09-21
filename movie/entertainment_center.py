@@ -12,7 +12,7 @@ incendies = media.Movie("Incendies",
 
 whiplash = media.Movie("whiplash",
 	"A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
-	"http://img.moviepostershop.com/whiplash-movie-poster-2014-1010770813.jpg",
+	"https://image.slidesharecdn.com/whiplashbydamienchazelleforeducationalpurposes-150121135747-conversion-gate02/95/whiplash-by-damien-chazelle-for-educational-purposes-1-638.jpg?cb=1421848956",
 	"https://www.youtube.com/watch?v=7d_jQycdQGo")
 
 vendetta = media.Movie("V for Vendetta",
