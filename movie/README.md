@@ -1,4 +1,4 @@
-#Move trailer website
+#Movie trailer website
 
 this application shows a list of movies and their trailers in a neat and smooth way.
 
